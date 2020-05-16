@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Hyde
 tagline:          'what is a tagline'
 description:      'test a'
-url:              
-baseurl:          
+url:              https://20-1-skku-oss.github.io 
+baseurl:          /2020-1-OSS-12 
 
 author:
   name:           'Mark Otto'

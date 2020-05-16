@@ -11,7 +11,7 @@ title:            Hyde
 tagline:          'what is a tagline'
 description:      'test a'
 url:              
-baseurl:          /2020-1-OSS-12
+baseurl:          
 
 author:
   name:           'Mark Otto'

@@ -25,9 +25,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  20-1-SKKU-OSS/2020-1-OSS-12
     rss: rss
  
 

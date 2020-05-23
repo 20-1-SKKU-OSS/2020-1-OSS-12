@@ -32,11 +32,17 @@ https://20-1-skku-oss.github.io/2020-1-OSS-12/
 ## <div id = "about_community">커뮤니티 소개</div>
 1. [github AIMPYouTube](https://github.com/AdrianEddy/AIMPYouTube)<br>
 
->github의 AIMPYoutube 소개 페이지입니다. 플러그인의 소스코드가 2015년 9월에 첫 commit이 등록되었고 2020년 5월 15일 AIMPYoutube v1.7의 >signature decoder 개선을 마지막으로 총 73개의 commit이 등록되었습니다. 2016년 5월에 플러그인이 유튜브계정을 인식하지 못하는 문제가 첫 이슈로 등록되>었고 2020년 4월 저작권문제로 재생하지 못하는 목록에 대한 개선사항을 마지막으로 총 19개의 이슈가 등록되었으며 그 중 13개가 완료되었습니다.<br>
+>github의 AIMPYoutube 소개 페이지입니다. 플러그인의 소스코드가 2015년 9월에 첫 commit이 등록되었고 2020년 5월 15일<br> 
+>AIMPYoutube v1.7의 signature decoder 개선을 마지막으로 총 73개의 commit이 등록되었습니다. 2016년 5월에 플러그인이<br> 
+>유튜브계정을 인식하지 못하는 문제가 첫 이슈로 등록되었고 2020년 4월 저작권문제로 재생하지 못하는 목록에 대한 개선사항을<br> 
+>마지막으로 총 19개의 이슈가 등록되었으며 그 중 13개가 완료되었습니다.<br>
 
 2. [AIMP.ru](http://www.aimp.ru/forum/index.php?topic=50071)<br>
 
->AIMP 플레이어 홈페이지의 Addons ->Plugins 탭에 있는 게시판입니다. youtube키워드로 검색하여 작성자 AddrianEddy의 YouTube Plugin v1.6을 선택하>면 플러그인을 다운로드하고 이와 관련된 질문/답변을 할 수 있습니다. 2015년 9월부터 시작하여 2020년 5월 현재까지 이루어진 총 32페이지 분량의 질답 내역을 >확인할 수 있으며 제작자 AddrianEddy에게서 github보다 활발한 답변을 받을 수 있는 곳입니다.<br>
+>AIMP 플레이어 홈페이지의 Addons ->Plugins 탭에 있는 게시판입니다. youtube키워드로 검색하여 작성자 AddrianEddy의<br>
+>YouTube Plugin v1.6을 선택하면 플러그인을 다운로드하고 이와 관련된 질문/답변을 할 수 있습니다. 2015년 9월부터 시작하여<br>
+>2020년 5월 현재까지 이루어진 총 32페이지 분량의 질답 내역을 확인할 수 있으며 제작자 AddrianEddy에게서 github보다<br> 
+>활발한 답변을 받을 수 있는 곳입니다.<br>
 
 ## <div id="#how_to">활동 방법</div>
 * 버그 리포팅 : 현재 버젼(v1.6)과 개발중인 버젼(v1.7)을 사용하며 발생하는 에러, 문제점 확인 후 에러 발생과정과 함께 issue로 등록합니다.

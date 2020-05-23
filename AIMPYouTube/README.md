@@ -22,7 +22,7 @@ Download
 
 Screenshots
 ---
-![Options dialog](/_screenshots/options.png)
-![Playlists menu](/_screenshots/playlists.png)
-![Context menu](/_screenshots/contextmenu.png)
-![Add URL dialog](/_screenshots/addurl.png)
+![Options dialog](/AIMPYouTube/_screenshots/options.png)
+![Playlists menu](/AIMPYouTube/_screenshots/playlists.png)
+![Context menu](/AIMPYouTube/_screenshots/contextmenu.png)
+![Add URL dialog](/AIMPYouTube/_screenshots/addurl.png)

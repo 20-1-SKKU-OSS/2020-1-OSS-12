@@ -39,9 +39,9 @@ https://20-1-skku-oss.github.io/2020-1-OSS-12/
 
 2. [AIMP.ru](http://www.aimp.ru/forum/index.php?topic=50071)<br>
 
->AIMP 플레이어 홈페이지의 Addons ->Plugins 탭에 있는 게시판입니다. youtube키워드로 검색하여 작성자 AddrianEddy의<br>
->YouTube Plugin v1.6을 선택하면 플러그인을 다운로드하고 이와 관련된 질문/답변을 할 수 있습니다. 2015년 9월부터 시작하여<br>
->2020년 5월 현재까지 이루어진 총 32페이지 분량의 질답 내역을 확인할 수 있으며 제작자 AddrianEddy에게서 github보다<br> 
+>AIMP 플레이어 홈페이지의 Addons ->Plugins 탭에 있는 게시판입니다. youtube키워드로 검색하여 작성자 AddrianEddy의
+>YouTube Plugin v1.6을 선택하면 플러그인을 다운로드하고 이와 관련된 질문/답변을 할 수 있습니다. 2015년 9월부터 시작하여
+>2020년 5월 현재까지 이루어진 총 32페이지 분량의 질답 내역을 확인할 수 있으며 제작자 AddrianEddy에게서 github보다
 >활발한 답변을 받을 수 있는 곳입니다.<br>
 
 ## <div id="#how_to">활동 방법</div>

@@ -32,9 +32,9 @@ https://20-1-skku-oss.github.io/2020-1-OSS-12/
 ## <div id = "about_community">커뮤니티 소개</div>
 1. [github AIMPYouTube](https://github.com/AdrianEddy/AIMPYouTube)<br>
 
->github의 AIMPYoutube 소개 페이지입니다. 플러그인의 소스코드가 2015년 9월에 첫 commit이 등록되었고 2020년 5월 15일<br> 
->AIMPYoutube v1.7의 signature decoder 개선을 마지막으로 총 73개의 commit이 등록되었습니다. 2016년 5월에 플러그인이<br> 
->유튜브계정을 인식하지 못하는 문제가 첫 이슈로 등록되었고 2020년 4월 저작권문제로 재생하지 못하는 목록에 대한 개선사항을<br> 
+>github의 AIMPYoutube 소개 페이지입니다. 플러그인의 소스코드가 2015년 9월에 첫 commit이 등록되었고 2020년 5월 15일
+>AIMPYoutube v1.7의 signature decoder 개선을 마지막으로 총 73개의 commit이 등록되었습니다. 2016년 5월에 플러그인이
+>유튜브계정을 인식하지 못하는 문제가 첫 이슈로 등록되었고 2020년 4월 저작권문제로 재생하지 못하는 목록에 대한 개선사항을 
 >마지막으로 총 19개의 이슈가 등록되었으며 그 중 13개가 완료되었습니다.<br>
 
 2. [AIMP.ru](http://www.aimp.ru/forum/index.php?topic=50071)<br>

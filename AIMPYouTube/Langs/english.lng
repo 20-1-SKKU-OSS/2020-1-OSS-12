@@ -1,0 +1,57 @@
+﻿[FILE]
+Author=Eddy
+Name=English (EN)
+VersionID=0
+LangId=1033
+
+[YouTube]
+ConnectStatusOK=Authorization granted|You may now close this browser window and return to AIMP.
+ConnectStatusError=Sorry, an error occurred|Couldn't connect to YouTube account. Please return to AIMP and try again.
+YouTubeLang=en
+
+[YouTube.Messages]
+Error=Error
+CantResolve=Could not resolve this url.
+
+[YouTube.Menu]
+AddURL=YouTube URL
+OpenInBrowser=Open in web browser
+AddToExclusions=Add to exclusions
+AddTo=Add to
+RemoveFrom=Remove from
+CheckForNewItems=Check for new videos
+
+[YouTube.AddURL]
+Title=Add YouTube URL
+URL=YouTube URL
+CreateNew=Create new playlist
+OK=OK
+PlaylistName=Playlist name (optional)
+
+[YouTube.Options]
+Title=YouTube
+Account=YouTube account
+ConnectButton=Sign in with Google|Sign out
+General=General
+MonitorURLs=Monitor added URLs
+MonitorUserPlaylists=Monitor user's playlists
+CheckAtStartup=Check for new tracks on AIMP startup
+CheckEvery=Check for new tracks every|hours
+YoutubeDLTimeout=Timeout|seconds
+YoutubeDLAlways=Always use youtube-dl
+YoutubeDLUpdate=Update
+YoutubeDLParameters=Parameters
+
+[YouTube.Playlists]
+Favorites=Favorites
+Uploads=Uploads
+Likes=Likes
+WatchLater=Watch later
+
+[YouTube.Exclusions]
+Title=Track exclusions
+Header=Manage track exclusions
+ListHeader=Track title|Duration
+Remove=Remove from exclusions
+RemoveAndAddToPlaylist=Remove from exclusions and add to playlist
+OK=OK

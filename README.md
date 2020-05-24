@@ -13,7 +13,7 @@ https://20-1-skku-oss.github.io/2020-1-OSS-12/
 ## <div id = "Members">팀 소개</div>
 ### 팀장
 + 박원호
-> 이메일: 이메일@이메일.이메일<br>
+> 이메일: ohpark0509@naver.com<br>
 > GitHub ID: [kinggodwonho](https://github.com/kinggodwonho)<br>
 
 ### 팀원

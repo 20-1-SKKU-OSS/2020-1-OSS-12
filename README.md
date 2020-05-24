@@ -26,6 +26,7 @@ https://20-1-skku-oss.github.io/2020-1-OSS-12/
 > GitHub ID: [jdryj](https://github.com/jdryj)<br>
 
 ## <div id = "about_project">프로젝트 소개</div>
+ ![Options dialog](/AIMPYouTube/_screenshots/options.png)<br>
  * AIMPYouTube는 음악 재생 프로그램 AIMP의 유튜브 플러그인입니다.
  * 유튜브의 URL을 AIMP에 공급해서 로컬에서 유튜브 재생목록을 이용할 수 있도록 합니다.
 

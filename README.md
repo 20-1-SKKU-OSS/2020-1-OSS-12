@@ -18,7 +18,7 @@ https://20-1-skku-oss.github.io/2020-1-OSS-12/
 
 ### 팀원
 + 노태현
-> 이메일: 이메일@이메일.이메일<br>
+> 이메일: dove0255@g.skku.edu<br>
 > GitHub ID: [FailFish](https://github.com/FailFish)<br>
 
 + 유영조

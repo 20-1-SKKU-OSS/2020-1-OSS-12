@@ -17,3 +17,15 @@ date:   2020-06-09
 3. 신규 사용자를 위한 플러그인 설치, 사용 설명서 작성
 - 신규 사용자를 위한 매뉴얼 설명서인 MANUAL.md 작성
 - MANUAL.md에 추가로 AIMPYouTube 기능 사용법 추가 작성
+
+<hr>
+## 노태현
+
+# 2020-06-07
+* 기존에 포럼에 올라오는 피드백과 원본 github의 issue들을 직접 구동해보고 현재까지 해결이 되지 않은 문제를 선별해서 12조 issue에 등록함
+* https://github.com/20-1-SKKU-OSS/2020-1-OSS-12/issues/6 
+* https://github.com/20-1-SKKU-OSS/2020-1-OSS-12/issues/7 기능 추가 제안
+
+# 2020-06-09
+* MANUAL.md 업데이트
+* README.md 한글화

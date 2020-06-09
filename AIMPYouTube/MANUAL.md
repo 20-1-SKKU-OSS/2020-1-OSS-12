@@ -10,7 +10,7 @@
 
 2. 플러그인 설치
 
-- AIMP 공식 홈페이지의 Addon 탭 혹은 AIMPYouTube github 페이지(https://github.com/AdrianEddy/AIMPYouTube)를 통해 파일 다운로드 및 실행 
+- AIMP 공식 홈페이지 포럼(http://www.aimp.ru/forum/index.php?topic=50071)을 통해 파일 다운로드
 
  
 
@@ -24,7 +24,7 @@
 
 4. 플러그인 등록
 
-- AIMP 프로그램 실행 후, 메뉴의 플러그인 탭에서 플러그의 YouTube 표시 확인. 플러그인이 등록되었음을 확인한다.
+- AIMP 프로그램 실행 후, 메뉴의 플러그인 탭에서 플러그인의 YouTube 표시 확인. 플러그인이 등록되었음을 확인한다.
 
  
 

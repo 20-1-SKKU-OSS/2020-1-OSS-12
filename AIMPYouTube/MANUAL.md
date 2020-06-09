@@ -11,7 +11,7 @@
 2. 플러그인 설치
 
 - AIMP 공식 홈페이지 포럼(http://www.aimp.ru/forum/index.php?topic=50071)을 통해 파일 다운로드
-![forum](/AIMPYouTube/_screenshots/install_forum_img.png)
+![forum](/AIMPYouTube/_screenshots/install_forum_img.png){ width=60% height=60% }
  
 
 3. 플러그인 폴더 이동

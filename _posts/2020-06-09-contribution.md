@@ -44,4 +44,4 @@ date:   2020-06-09
 3. 신규 베타버젼(v1.7) 버그 테스트 후 리포트 (In progress)
 - 진행 중
 
-4. README.md 
+4. README.md 작성 (clear)

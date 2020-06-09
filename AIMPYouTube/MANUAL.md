@@ -2,7 +2,7 @@
 
 1. AIMP 프로그램 설치
 
-- AIMP 공식 홈페이지(https://www.aimp.ru/)의 download 탭에서 사양에 맞는 파일 다운로드 및 실행
+- AIMP 공식 홈페이지(https://www.aimp.ru/) 의 download 탭에서 사양에 맞는 파일 다운로드 및 실행
 
 
 2. 플러그인 설치

@@ -19,6 +19,9 @@ date:   2020-06-09
 - 신규 사용자를 위한 매뉴얼 설명서인 MANUAL.md 작성
 - MANUAL.md에 추가로 AIMPYouTube 기능 사용법 추가 작성
 
+4. 추가활동 - 국가 영상 차단 Issue 코드 분석(In progress)
+- YouTubeDLL.cpp 신규 contributor을 위한 변수 및 함수 설명본 정리
+
 <hr>
 ## 노태현
 
